@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rithvik-doshi
-- 👀 I’m interested in learning project management on Github and learning software in general.
-- 🌱 I’m currently learning the above and working with a club at Boston University
+- 👀 I’m interested in learning project management on Github and learning more about software.
+- 🌱 I’m currently learning the above and working in class and with a club at Boston University.
 - 💞️ I’m looking to collaborate in the future.
 - 📫 How to reach me: rithvik@bu.edu
 
