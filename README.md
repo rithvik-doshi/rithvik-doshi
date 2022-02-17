@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate in the future or hop onboard a project to get more experience in software.
 - 📫 How to reach me: rithvik@bu.edu
 
-[![Rithvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rithvik-doshi)](https://github.com/anuraghazra/github-readme-stats)
+[![Rithvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rithvik-doshi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithvik-doshi&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 rithvik-doshi/rithvik-doshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
