@@ -6,7 +6,7 @@
 
 [![Rithvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rithvik-doshi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithvik-doshi&layout=compact&langs_count=8&hide=jupyter%20notebook,rich%20text%20format,csharp,python)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithvik-doshi&layout=compact&langs_count=8&hide=jupyter%20notebook,rich%20text%20format)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 rithvik-doshi/rithvik-doshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
