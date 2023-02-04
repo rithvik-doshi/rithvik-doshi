@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rithvik-doshi
-- 👀 I’m interested in learning about all things Artificial Intelligence and Machine Learning.
-- 🌱 I’m currently pursuing a degree in Computer Science and working with BU Spark! at Boston University.
+- 👀 I’m interested in learning about Artificial Intelligence and Public Transportation.
+- 🌱 I’m currently pursuing a BA/MS in Computer Science and working with BU Spark! at Boston University.
 - 💞️ I’m looking to collaborate or hop onboard a project to get more experience.
 - 📫 How to reach me: rithvik@bu.edu
 
