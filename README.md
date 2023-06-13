@@ -4,7 +4,6 @@
 - 💞️ I’d love to collaborate or hop onboard a project to get more experience.
 - 📫 How to reach me: rithvik@bu.edu
 
-[![Rithvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rithvik-doshi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithvik-doshi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
