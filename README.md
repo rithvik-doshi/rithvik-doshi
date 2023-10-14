@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about Artificial Intelligence and Public Transportation.
 - 🌱 I’m currently pursuing a BA/MS in Computer Science, interning at Deloitte Consulting LLC in the GenAI Practice and working with BU Spark! at Boston University.
 - 📫 How to reach me: rithvik@bu.edu
-- 🕸️ [doshir.dev](www.doshir.dev)
+- 🕸️ [doshir.dev](https://doshir.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithvik-doshi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
